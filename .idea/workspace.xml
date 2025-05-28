@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec8dd9dd-bd8f-443b-b291-12777aff071d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Cofee Machine/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISI_position_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_16/Day_17/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_16/Day_17/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_16/Day_17/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_16/Day_17/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_16/pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_18/pythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_18/pythonProject1/random_walk_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_18/pythonProject1/spirograph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_19/Day_19/final_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_19/Day_19/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_20/Day_20/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_20/Day_20/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_20/Day_20/score_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_20/Day_20/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_22/Pong_Game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_22/Pong_Game/paddle1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_22/Pong_Game/score_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_23/Car game/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_23/Car game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_23/Car game/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_23/Car game/score_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_24/Day_24/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_24/Day_24/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_24/Day_24/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_27/Errors and exceptions/coding_exersize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_27/Errors and exceptions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_27/Tkinter_project/final_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_27/Tkinter_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_27/Tkinter_project/play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_31/Flash Card/buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_31/Flash Card/chinese_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_31/Flash Card/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_31/Flash Card/flash_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_31/Flash Card/flashy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_41(Web_DEVELOPMENT)/webdevelopment/HTML_personal_Site/Css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_41(Web_DEVELOPMENT)/webdevelopment/HTML_personal_Site/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_41(Web_DEVELOPMENT)/webdevelopment/HTML_personal_Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_41(Web_DEVELOPMENT)/webdevelopment/HTML_personal_Site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_41(Web_DEVELOPMENT)/webdevelopment/HTML_personal_Site/index_working.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_43(My_Site)/My_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_43(My_Site)/My_site/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_07.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_08.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_08.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_09.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_09.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../h.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../travel_log.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../travel_log1.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2iTEYC2gIqqfaL3WwslSyOpDVGp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ISI_position_email.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8dd9dd-bd8f-443b-b291-12777aff071d" name="Changes" comment="" />
+      <created>1719506212696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719506212696</updated>
+    </task>
+    <servers />
+  </component>
+</project>
