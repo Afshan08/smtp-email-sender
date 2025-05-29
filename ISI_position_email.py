@@ -4,9 +4,9 @@ import requests
 import datetime as dt
 MY_LONG = 69.345116
 MY_LAT = 30.375320
-email_1 = "afridiafshan01@gmail.com"
-email_1_password = "mmaa@dvj9j9"
-send_to_email = "afridiafshan02@gmail.com"
+email_1 = "Your Email"
+email_1_password = "Your Password"
+send_to_email = "The email address to send"
 def is_iss_overhead():
     response = requests.get(url="http://api.open-notify.org/iss-now.json")
     response.raise_for_status()
